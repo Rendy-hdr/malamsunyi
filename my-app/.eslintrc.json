@@ -1,0 +1,4 @@
+{
+  "extends": "next/core-web-vitals"
+}
+// memberi tahu error yang ada 
